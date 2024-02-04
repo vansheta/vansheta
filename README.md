@@ -13,7 +13,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/vansheta sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansheta sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vansheta-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansheta sharma" height="30" width="40" /></a>
 
 <a href="https://instagram.com/that.datachick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="that.datachick" height="30" width="40" /></a>
 
